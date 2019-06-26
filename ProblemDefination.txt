@@ -1,0 +1,45 @@
+1.Rockwell Automation Inc. is one of the biggest company has a presence over world.
+2.It previously uses private cloud for their IT solutions.
+3.But Private cloud services are limited so they want to host their service on public cloud.
+4.Company has 35000 employee.
+5.Human Resource Solution portal which will be accessiable anywhere in the world.
+6.For this solution we need to provide intailly security
+ because it is company's private data which can not be accessible to outsider.
+7.The solution should provide avalibality means it is accessible all the time.
+8.Data should be managed properly, need to provide data integrity.
+9.The portal should provide all the data related to employee like employee detail,documents,data related to their promotion etc.
+10.The public cloud should mangae network traffic, because there are no. of employes more.
+11.Private cloud doesn't handle high network traffic.
+12.Drecresed response time.
+
+
+
+
+
+Functional requirement:
+Employee login
+validation
+view details
+upload documents
+fill the perfomance
+view the current affairs in the company
+raise ticket
+apply for leave
+Manage employee
+mangae appraisals
+manage department
+manage trainings
+
+
+Non functional requirement:
+security
+performance
+avialabilty
+maintabilty
+data integrity
+high response time
+low network tarffic
+
+
+
+  
